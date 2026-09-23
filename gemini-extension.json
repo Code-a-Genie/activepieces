@@ -1,0 +1,13 @@
+{
+  "name": "activepieces",
+  "version": "1.0.0",
+  "description": "Connect Gemini CLI to Activepieces to build, manage, and run automations through MCP.",
+  "mcpServers": {
+    "activepieces": {
+      "httpUrl": "https://cloud.activepieces.com/mcp/platform",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  }
+}
